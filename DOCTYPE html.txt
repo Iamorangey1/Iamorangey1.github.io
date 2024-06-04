@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4682b4;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .bio {
+            background-color: #e6f2ff;
+            border-left: 5px solid #4682b4;
+            padding: 10px 20px;
+            margin: 20px 0;
+        }
+        footer {
+            background-color: #4682b4;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Digital Marketing</h1>
+</header>
+
+<div class="container">
+    <section class="bio">
+        <h2>About Me</h2>
+        <p>Hello! I am passionate about digital marketing. With a strong background in creating impactful marketing strategies and campaigns, I aim to drive growth and success for businesses. My expertise includes SEO, social media marketing, content creation, and data analysis. Let's connect and explore the endless possibilities of digital marketing!</p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Digital Marketing</p>
+</footer>
+
+</body>
+</html>
